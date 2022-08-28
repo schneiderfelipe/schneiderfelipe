@@ -1,17 +1,23 @@
-![Hi there 👋, I'm Felipe!](https://acegif.com/wp-content/uploads/gifs/hello-42.gif)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/schneiderfelipe)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/schneiderfelipe)
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=schneiderfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="schneiderfelipe" />
+<p align="center">
+  <img src="https://acegif.com/wp-content/uploads/gifs/hello-42.gif" alt="Hi there 👋, I'm Felipe! (@schneiderfelipe)" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?theme=monokai&hide_border=true&show_icons=true&username=schneiderfelipe&count_private=true&locale=en)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,typescript,golang,bash,julia,svelte,docker,vim,git,linux" alt="Happy to be Paid to Use (Languages and Tools)" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?theme=monokai&hide_border=true&user=schneiderfelipe&count_private=true&date_format=j%20M%5B%20Y%5D)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=monokai&hide_border=true&show_icons=true&username=schneiderfelipe&count_private=true&date_format=j%20M%5B%20Y%5D&layout=compact&langs_count=8" alt="Obscure Programming Languages" />
+</p>
 
-![Languages and Tools](https://skillicons.dev/icons?i=rust,golang,julia,python,typescript,svelte,linux,vim)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?theme=monokai&hide_border=true&show_icons=true&username=schneiderfelipe&count_private=true&date_format=j%20M%5B%20Y%5D&layout=compact&langs_count=8" alt="Useless GitHub Stats" />
+</p>
 
-![Programming languages](https://github-readme-stats.vercel.app/api/top-langs?theme=monokai&hide_border=true&show_icons=true&username=schneiderfelipe&count_private=true&locale=en&layout=compact&langs_count=10)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?theme=monokai&hide_border=true&show_icons=true&user=schneiderfelipe&count_private=true&date_format=j%20M%5B%20Y%5D&layout=compact&langs_count=8" alt="Boring GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=schneiderfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="schneiderfelipe" />
+</p>
