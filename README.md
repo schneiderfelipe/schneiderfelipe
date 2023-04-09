@@ -1,3 +1,3 @@
-Check out my contributions below, and don't forget to [follow me on Twitter](https://twitter.com/felipe_schna).
+Check out my contributions below.
 
 You can also find more of my work at <https://schneiderfelipe.github.io/>.
