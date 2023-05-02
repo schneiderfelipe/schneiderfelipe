@@ -1,3 +1,3 @@
-Check out my contributions below.
+Discover my latest contributions and projects on GitHub.
 
-You can also find more of my work at <https://schneiderfelipe.github.io/>.
+Explore more of my work at <https://schneiderfelipe.github.io/>.
